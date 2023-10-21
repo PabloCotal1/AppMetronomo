@@ -1,0 +1,7 @@
+{
+  "name": "appyo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
